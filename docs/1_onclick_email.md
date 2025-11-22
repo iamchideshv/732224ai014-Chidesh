@@ -6,4 +6,5 @@
 -	Execute the workflow.
 -	The workflow will run and show the final output.
 # Screenshot
-<img width="1269" height="559" alt="Screenshot 2025-11-21 122910" src="https://github.com/user-attachments/assets/eeff1624-0a8e-4625-8abe-e61ec81a632d" />
+<img width="932" height="362" alt="Screenshot 2025-11-22 115353" src="https://github.com/user-attachments/assets/920c8bca-f872-45d6-8bad-b0aa37bffb7e" />
+
